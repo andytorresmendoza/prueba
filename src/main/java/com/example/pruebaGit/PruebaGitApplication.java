@@ -8,6 +8,6 @@ public class PruebaGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PruebaGitApplication.class, args);
-	}
+	} //Desde Mains
 
 }
