@@ -9,5 +9,5 @@ public class PruebaGitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PruebaGitApplication.class, args);
 	}
-// aplicacion sprint 1
+
 }
